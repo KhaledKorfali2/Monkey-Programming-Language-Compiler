@@ -23,3 +23,11 @@ go.work.sum
 
 # env file
 .env
+
+# direnv configuration file
+*.envrc
+
+# Windows Zone.Identifier files (for downloaded files)
+Zone.Identifier
+*.Zone.Identifier
+
